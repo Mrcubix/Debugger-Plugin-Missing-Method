@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggerPluginMethodMissing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggerPluginMethodMissing.Plugin", "DebuggerPluginMethodMissing.Plugin\DebuggerPluginMethodMissing.Plugin.csproj", "{3A0E0B39-41BA-4BC0-A631-68013290E9C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamplePlugin.Old", "Examples\ExamplePlugin.Old\ExamplePlugin.csproj", "{D6F16E56-FB93-4DDC-B55E-7CEFBD4F5620}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamplePlugin.Old", "Examples\ExamplePlugin.Old\ExamplePlugin.Old.csproj", "{D6F16E56-FB93-4DDC-B55E-7CEFBD4F5620}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamplePlugin", "Examples\ExamplePlugin.New\ExamplePlugin.csproj", "{8A72F3CC-948E-4C60-BAE8-8C74F11C7FE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamplePlugin", "Examples\ExamplePlugin.New\ExamplePlugin.New.csproj", "{8A72F3CC-948E-4C60-BAE8-8C74F11C7FE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamplePlugin.Dependency.Old", "Examples\ExamplePlugin.Dependency.Old\ExamplePlugin.Dependency.csproj", "{36608741-75FA-4B5D-8110-82572A8EDB33}"
 EndProject
